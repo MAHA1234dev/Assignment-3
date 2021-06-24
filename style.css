@@ -1,0 +1,154 @@
+nav{
+    border: none;
+    padding: 5px;
+    background-color:lightblue;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+}
+img
+{
+    background-color: #7952b3;
+    height:50px;
+    width: 50px;
+
+}
+a{
+ 
+   padding: 10px;
+   text-decoration: whitesmoke;
+   font-size: 25px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   text-decoration-style: solid;
+   text-align: center;
+   
+   
+}
+h1
+{
+    font-size: calc(1.525rem + 3.3vw);
+    line-height: 1;
+}
+div
+{
+    margin-top: 20px;
+    margin-left: 50px;
+    display: inline-flex;
+}
+#img1 
+{
+    position: absolute;
+    height: 300px;
+    width: 600px;
+    top: 100px;
+    left: 700px;
+}
+p{
+    margin-left: 50px;
+    font-size: calc(1.275rem + .3vw);
+    font-weight: 400;
+    color: #495057;
+}
+#a1
+{
+    background-color: royalblue;
+    border-radius: 20px;
+   
+}
+#a2
+{
+   background-color: silver;
+   border-radius: 20px;
+   margin-left: 30px;
+}
+#aa
+{
+    margin-top: 5px;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 20px;
+    text-decoration: underline;
+}
+#h1
+{
+    margin-left: 50px;
+    font-size: 50px;
+    font-style: inherit;
+}
+#p2
+{
+    margin-top: 20px;
+    font-weight: lighter;
+    font-size: 20px;
+    
+}
+/* #div1
+{
+    display: inline-flex;
+} */
+#divd
+{
+    margin-left: 10px;
+}
+#instal
+{
+margin-top: -100px;
+font-style: oblique;
+border: khaki;
+text-decoration: underline;
+}
+#link1
+{
+    margin-top: -100px;
+    font-size: 20px;
+    margin-left: 50px;
+    text-decoration: underline;
+}
+
+
+#link2
+{
+    margin-top: -100px;
+    font-size: 20px;
+    margin-left: 380px;
+    text-decoration: wavy;
+    text-decoration: underline;
+}
+}
+#h21
+{
+    font-weight: 400!important;
+    font-size: calc(1.425rem + 2.1vw);
+    font-weight: 300;
+    line-height: 1.2;
+}
+#p8
+{
+    margin-top: 5px;
+    font-size: 20px;
+    font-style: initial;
+    text-emphasis-color: black;
+   }
+   #bootstrap
+   {
+       height: 400px;
+       width: 800px;
+       margin-left: 700px;
+       margin-top: -200px;
+       border-radius: 10px;
+   }
+   #icon
+   {
+       background-color: lawngreen;
+       margin-left: 50px;
+       margin-top: -500px;
+       border-radius: 5px;
+   }
+   #size
+   {
+       font-size: 15px;
+   }
+#h123
+{
+    margin-left: 150px;
+}
